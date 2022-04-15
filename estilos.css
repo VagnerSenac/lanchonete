@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Karantina:wght@300;400;700&display=swap');
+body{
+    background-color: antiquewhite;
+    color:black;
+    font-family: karantina;
+    text-align: center;
+}
+.botao1,
+.botao2{
+text-decoration: none;
+font-weight: bold;
+font-size: 16px;
+text-transform: uppercase;
+border: 1px solid black;
+display: inline-block;
+padding: 10px;
+margin-bottom: 20px;
+width: 250px;
+text-align: center;
+border-color: blue;
+color: black;
+}
+
+.botao1{
+    background-color: aquamarine;
+  
+}
+
+.botao2{
+    background-color: aqua;
+    
+}
